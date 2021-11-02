@@ -122,14 +122,15 @@ const Hero = ({ content }) => {
                 />
               </motion.div>
             </div>
-            {frontmatter.title}
+            {/* {frontmatter.title} */}
           </h1>
-          <h2 className="subtitle">
+          <br />
+          <h3 className="subtitle">
             {frontmatter.subtitlePrefix}{" "}
             <AnimatedUnderlining animate={uControls} big>
               {frontmatter.subtitle}
             </AnimatedUnderlining>
-          </h2>
+          </h3>
           <div className="description">
             <MDXRenderer>{body}</MDXRenderer>
           </div>
