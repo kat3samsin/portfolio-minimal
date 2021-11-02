@@ -122,7 +122,7 @@ const Hero = ({ content }) => {
                 />
               </motion.div>
             </div>
-            {/* {frontmatter.title} */}
+            {frontmatter.title}
           </h1>
           <br />
           <h3 className="subtitle">
