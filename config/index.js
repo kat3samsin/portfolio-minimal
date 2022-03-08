@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Portfolio of Katrina Tantay",
   siteShortTitle: "Katrina Tantay", // Used as logo text in header, footer, and splash screen
   siteDescription: "Portfolio of Katrina Tantay",
-  siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+  siteUrl: "https://kat3samsin.github.io/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Katrina Tantay", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
@@ -57,7 +57,7 @@ module.exports = {
   socialMedia: [
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/ksamsin/",
+      url: "https://www.linkedin.com/in/kat3samsin/",
     },
     
     {
@@ -91,7 +91,7 @@ module.exports = {
       useFileName: false,
       name: "Resume",
       fileName: "", // the file has to be placed inside the static folder at the root level
-      url: "https://drive.google.com/file/d/1aoWZc8HJ6HovtujThelY7qggiRK5GNrE/view?usp=sharing", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
+      url: "https://drive.google.com/file/d/1iqMHrs9VefxmSCf6VuEhUfvGkTFMgce_/view?usp=sharing", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },
   footerLinks: [
