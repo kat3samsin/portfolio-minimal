@@ -91,7 +91,7 @@ module.exports = {
       useFileName: false,
       name: "Resume",
       fileName: "", // the file has to be placed inside the static folder at the root level
-      url: "https://drive.google.com/file/d/1iqMHrs9VefxmSCf6VuEhUfvGkTFMgce_/view?usp=sharing", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
+      url: "https://drive.google.com/file/d/17Lyx-HMQxICRSwg-7_6MCUXrCC4AiYkT/view?usp=sharing", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },
   footerLinks: [
