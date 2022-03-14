@@ -69,6 +69,10 @@ module.exports = {
       name: "Mail",
       url: "mailto:kat3samsin@gmail.com",
     },
+    {
+      name: "Resume",
+      url: "https://docs.google.com/document/d/14ApO4Q0q7zVJX7Yc7srDUB5omkdtJ_cnV6qW6orGFPw/edit?usp=sharing", 
+    }
   ],
 
   //-- NAVIGATION SETTINGS -----
@@ -93,6 +97,12 @@ module.exports = {
       fileName: "", // the file has to be placed inside the static folder at the root level
       url: "https://drive.google.com/file/d/17Lyx-HMQxICRSwg-7_6MCUXrCC4AiYkT/view?usp=sharing", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
+    // button: {
+    //   useFileName: false,
+    //   name: "Resume",
+    //   fileName: "", // the file has to be placed inside the static folder at the root level
+    //   url: "https://docs.google.com/document/d/14ApO4Q0q7zVJX7Yc7srDUB5omkdtJ_cnV6qW6orGFPw/edit?usp=sharing", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
+    // },
   },
   footerLinks: [
     // {
